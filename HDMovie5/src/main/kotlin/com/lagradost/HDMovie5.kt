@@ -9,8 +9,8 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 
 class HDMovie5 : MainAPI() {
-    override var mainUrl = "https://hdmovie2.skin"
-    override var name = "HDMovie"
+    override var mainUrl = "https://hdmovie2.bz/"
+    override var name = "HDMovie2"
     override var lang = "hi"
 
     override val hasQuickSearch = true
